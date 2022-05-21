@@ -110,23 +110,23 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 390px) {
   h1,
   h2,
   h3 {
     text-align: center;
   }
-}
-h1 {
-  font-size: 60px;
-}
-p {
-  text-align: center;
-}
-.project-picture {
-  display: none;
-}
-.app-link {
-  display: block;
-  text-align: center;
+  h1 {
+    font-size: 60px;
+  }
+  p {
+    text-align: center;
+  }
+  .app-link {
+    display: block;
+    text-align: center;
+  }
+  .project-picture {
+    display: none;
+  }
 }

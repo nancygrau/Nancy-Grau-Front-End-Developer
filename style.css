@@ -110,7 +110,7 @@ p {
   text-decoration: underline;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 576px) {
   h1,
   h2,
   h3 {

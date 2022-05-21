@@ -109,3 +109,24 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width: 576px) {
+  h1,
+  h2,
+  h3 {
+    text-align: center;
+  }
+}
+h1 {
+  font-size: 60px;
+}
+p {
+  text-align: center;
+}
+.project-picture {
+  display: none;
+}
+.app-link {
+  display: block;
+  text-align: center;
+}

@@ -117,7 +117,10 @@ p {
     text-align: center;
   }
   h1 {
-    font-size: 60px;
+    font-size: 54px;
+  }
+  h2 {
+    font-size: 32px;
   }
   p {
     text-align: center;
@@ -128,5 +131,11 @@ p {
   }
   .project-picture {
     display: none;
+  }
+  .mb-3 {
+    margin-top: 10px;
+  }
+  .contact {
+    margin-top: 20px;
   }
 }
